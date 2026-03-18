@@ -1,0 +1,38 @@
+# Gradle
+.gradle
+build/
+out/
+
+# IDE
+.idea
+.vscode
+*.iml
+*.swp
+
+# Java
+*.class
+*.jar
+*.log
+*.ctxt
+
+# Spring Boot
+application-dev.properties
+application-prod.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Environment
+.env
+.env.local
+
+# System
+*.pid
+*.seed
+
